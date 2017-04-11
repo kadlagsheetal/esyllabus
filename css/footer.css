@@ -1,0 +1,39 @@
+//footer css
+
+#footer {
+  width: 95%;
+  margin: 10px 10px 10px 10px;
+  padding: 6px 6px 6px 6px;
+  height: 54px;
+  line-height: 100%;
+  background: #FFFFFF;
+  border: 1px solid #27A8E8;
+  position:relative;
+  z-index:999;
+}
+#footer li {
+  margin: 6px 6px 6px 6px;
+  padding: 6px 6px 6px 6px;
+  float: right;
+  position: relative;
+  list-style: none;
+}
+#footer a {
+  font-family: arial;
+  font-style: normal;
+  color: #000000;
+  display: block;
+  padding: 6px 20px 6px 20px;
+  margin: 0;
+  margin-bottom: 6px;
+}
+
+.content {
+    margin: 100px;
+    text-align: center;
+}
+
+.pics {
+    border-radius:50% 50% 50% 50%;
+    padding: 35px;
+}
